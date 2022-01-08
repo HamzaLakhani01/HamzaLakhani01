@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @HamzaLakhani01
+- 👋 Hi, I’m @HamzaLakhani01.
 - 👀 I’m interested in Computer Software, Linux, AWS (and other cloud services), and Hardware.
 - 🌱 I’m currently learning Python.
 - 💞️ I’m not sure what to collaborate on at the moment.
