@@ -4,6 +4,8 @@
 - 💞️ I’m not sure what to collaborate on at the moment.
 - 📫 It's best to reach me by email. I'll respond as soon as I can.
 
+I'm passionate about the bleeding edge of technology and making it work for the consumer space.
+
 <!---
 HamzaLakhani01/HamzaLakhani01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
