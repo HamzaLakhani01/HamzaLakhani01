@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @HamzaLakhani01.
-- 👀 I’m interested in Computer Software, Linux, AWS (and other cloud services), and Hardware.
-- 🌱 I’m currently learning Python.
+- 👀 I used to be interested in Computer Software, Linux, AWS (and other cloud services), and Hardware.
+- 🚀 Now I'm interested in Cyber Security and IT Infrastructure - SecOps, Governance, Risk, Compliance, IT Delivery, and so on.
+- 🌱 I’m currently learning C# and .NET.
 - 💞️ I’m not sure what to collaborate on at the moment.
 - 📫 It's best to reach me by email. I'll respond as soon as I can.
 
