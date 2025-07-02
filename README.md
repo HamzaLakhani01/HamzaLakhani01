@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @HamzaLakhani01.
+👋 Hi, I’m @HamzaLakhani01 - Hamza Lakhani.
+- 💼 I'm currently employed.
 - 👀 I used to be interested in Computer Software, Linux, AWS (and other cloud services), and Hardware.
 - 🚀 Now I'm interested in Cyber Security and IT Infrastructure - SecOps, Governance, Risk, Compliance, IT Delivery, and so on.
 - 🌱 I’m currently learning C# and .NET.
